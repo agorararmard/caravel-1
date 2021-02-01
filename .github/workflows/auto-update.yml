@@ -18,7 +18,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run creating manifest
         run: make manifest
-      - name: Set up Python ${{ matrix.python-version }}
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: [3.6]
