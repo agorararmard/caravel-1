@@ -646,4 +646,5 @@ module caravel (
 	);
 
 endmodule
+
 // `default_nettype wire

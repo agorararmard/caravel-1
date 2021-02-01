@@ -35,6 +35,7 @@ current SoC architecture is given below.
 Datasheet and detailed documentation exists here:
 https://caravel-harness.readthedocs.io/en/develop/
 
+
 .. include:: docs/source/getting-started.rst
 
 .. |License| image:: https://img.shields.io/github/license/efabless/caravel
